@@ -1,5 +1,3 @@
-# muumi
-<!DOCTYPE html>
 <html lang="fi">
 <head>
 <meta charset="UTF-8">
